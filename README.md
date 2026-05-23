@@ -1,2 +1,2 @@
 # Lzi-invincible
-My portfolip
+My portfolio
